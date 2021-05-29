@@ -23,7 +23,7 @@ body::-webkit-scrollbar
 #header
 {
 	height: 100vh;
-	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/background-01.jpg);
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/background-01-q.jpg);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
